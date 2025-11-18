@@ -1,2 +1,2 @@
-# customizable-workflow-scraper
-This repo is dedicated to create a customizable scraper for different n8n worflows
+# FindyBot
+This is the bot that finds any promotion you want on any website you prefer
