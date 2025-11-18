@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mpp</groupId>
-	<artifactId>scraper</artifactId>
+	<artifactId>findy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>scraper</name>
-	<description>Scraper API</description>
+	<name>findy</name>
+	<description>FindyBot</description>
 	<url/>
 	<licenses>
 		<license/>

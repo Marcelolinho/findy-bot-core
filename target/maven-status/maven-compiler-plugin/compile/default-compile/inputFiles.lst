@@ -1,0 +1,9 @@
+/home/marcelo/Projects/customizable-workflow-scraper/src/main/java/com/mpp/findy/FindyApplication.java
+/home/marcelo/Projects/customizable-workflow-scraper/src/main/java/com/mpp/findy/core/enums/PlatformsEnum.java
+/home/marcelo/Projects/customizable-workflow-scraper/src/main/java/com/mpp/findy/core/enums/PriceTypeEnum.java
+/home/marcelo/Projects/customizable-workflow-scraper/src/main/java/com/mpp/findy/core/model/bot/FindyBotNotificationBo.java
+/home/marcelo/Projects/customizable-workflow-scraper/src/main/java/com/mpp/findy/core/model/bot/FindyBotPlatformBo.java
+/home/marcelo/Projects/customizable-workflow-scraper/src/main/java/com/mpp/findy/core/model/product/FindyCarBo.java
+/home/marcelo/Projects/customizable-workflow-scraper/src/main/java/com/mpp/findy/core/model/product/FindyPriceHistoryBo.java
+/home/marcelo/Projects/customizable-workflow-scraper/src/main/java/com/mpp/findy/core/model/product/FindyProductBo.java
+/home/marcelo/Projects/customizable-workflow-scraper/src/main/java/com/mpp/findy/database/entities/FindyProductEntity.java
