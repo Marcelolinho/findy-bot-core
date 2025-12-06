@@ -1,9 +1,0 @@
-com/mpp/findy/core/model/product/FindyPriceHistoryBo.class
-com/mpp/findy/core/model/bot/FindyBotNotificationBo.class
-com/mpp/findy/FindyApplication.class
-com/mpp/findy/core/model/product/FindyCarBo.class
-com/mpp/findy/core/enums/PriceTypeEnum.class
-com/mpp/findy/core/enums/PlatformsEnum.class
-com/mpp/findy/core/model/product/FindyProductBo.class
-com/mpp/findy/core/model/bot/FindyBotPlatformBo.class
-com/mpp/findy/database/entities/FindyProductEntity.class
