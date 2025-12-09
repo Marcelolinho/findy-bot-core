@@ -1,6 +1,7 @@
 package com.mpp.findy.core.model.product;
 
-import com.mpp.findy.core.enums.PriceTypeEnum;
+
+import com.mpp.enums.PriceTypeEnum;
 
 import java.math.BigDecimal;
 
@@ -37,7 +38,7 @@ public class FindyPriceHistoryBo {
         this.price = price;
     }
 
-    public PriceTypeEnum getPriceType() {
+    public com.mpp.enums.PriceTypeEnum getPriceType() {
         return priceType;
     }
 

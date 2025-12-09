@@ -1,6 +1,6 @@
 package com.mpp.findy.core.model.bot;
 
-import com.mpp.findy.core.enums.UserPlanEnum;
+import com.mpp.enums.UserPlanEnum;
 import com.mpp.findy.core.model.BaseEntity;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
