@@ -2,9 +2,15 @@ package com.mpp.findy.core.model.bot;
 
 import com.mpp.findy.core.model.BaseEntity;
 import jakarta.persistence.*;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 
+@EqualsAndHashCode(callSuper = true)
 @Entity
 @Table(name = "findy_bot_message")
+@Data
+@NoArgsConstructor
 public class FindyBotMessage extends BaseEntity {
 
     @Id
