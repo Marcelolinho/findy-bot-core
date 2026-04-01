@@ -1,3 +1,5 @@
-com/mpp/findy/IFindyBaseService.class
 com/mpp/findy/FindyBaseService.class
 com/mpp/FindyApplication.class
+com/mpp/findy/IFindyBaseService.class
+com/mpp/findy/config/RedisConfig.class
+com/mpp/findy/cache/CacheManagerService.class

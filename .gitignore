@@ -12,3 +12,5 @@ yarn-error.log
 *.tsbuildinfo
 *.env
 target
+CLAUDE.md
+.claude

@@ -1,3 +1,5 @@
 /home/marcelo/Projects/findy-bot/findy-bot-core/services/src/main/java/com/mpp/FindyApplication.java
 /home/marcelo/Projects/findy-bot/findy-bot-core/services/src/main/java/com/mpp/findy/FindyBaseService.java
 /home/marcelo/Projects/findy-bot/findy-bot-core/services/src/main/java/com/mpp/findy/IFindyBaseService.java
+/home/marcelo/Projects/findy-bot/findy-bot-core/services/src/main/java/com/mpp/findy/cache/CacheManagerService.java
+/home/marcelo/Projects/findy-bot/findy-bot-core/services/src/main/java/com/mpp/findy/config/RedisConfig.java
