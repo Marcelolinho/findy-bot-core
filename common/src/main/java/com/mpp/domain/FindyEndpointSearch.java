@@ -1,5 +1,6 @@
 package com.mpp.domain;
 
+import com.mpp.enums.PlatformsEnum;
 import lombok.Data;
 
 import java.util.UUID;
@@ -8,5 +9,5 @@ import java.util.UUID;
 public class FindyEndpointSearch {
 
     private UUID headerId;
-    private
+    private PlatformsEnum platformHandler;
 }

@@ -11,10 +11,12 @@ public abstract class AbstractFindyServiceHandler extends AbstractReplyProducing
         return handle(requestMessage);
     }
 
-    private Message<FindyEndpointSearch> handle(Message<?> requestMessage) {
+    public Message<FindyEndpointSearch> handle(Message<?> requestMessage) {
 
 
 
         return getMessageBuilderFactory().withPayload(new FindyEndpointSearch()).build();
     }
+
+    public abstract Message<FindyEndpointSearch> handleGateway();
 }
